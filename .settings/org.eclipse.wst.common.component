@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JavaClass">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/practice-assessment-5-thishastobenoah/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/practice-assessment-5-thishastobenoah/src/test/java"/>
+        <property name="context-root" value="JavaClass"/>
+        <property name="java-output-path" value="/JavaClass/bin"/>
+    </wb-module>
+</project-modules>
